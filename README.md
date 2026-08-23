@@ -11,9 +11,9 @@
 
 ## Download
 
-- [PersianKPICard v1.0.6](downloads/PersianKPICard-v1.0.6.pbiviz)
-- [Power BI demo](downloads/PersianKPICard-Demo.pbix)
-- [Excel demo source](downloads/PersianKPICard-Demo-Source.xlsx)
+- [PersianKPICard v1.0.6](PersianKPICard-v1.0.6.pbiviz)
+- [Power BI demo](PersianKPICard-Demo.pbix)
+- [Excel demo source](PersianKPICard-Demo-Source.xlsx)
 
 ## Installation
 
